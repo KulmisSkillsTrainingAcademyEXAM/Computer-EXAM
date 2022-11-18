@@ -1,9 +1,9 @@
 body{
-    background-image: url(hal.jpg);
+    background-color:with
     background-size: cover;
 }
 table{
-    color: rgb(252, 250, 255);
+    color: red;
     font-size: 40px;
 
 }
