@@ -1,4 +1,4 @@
-<!Doctype html>
+
 <html>
     <title> Natiijo</title>
     <head>
